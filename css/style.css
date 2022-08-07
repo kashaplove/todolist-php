@@ -1,0 +1,36 @@
+body {
+    background-color: #EFF0F3!important;
+}
+
+.container {
+    margin-top: 50px;
+    width: 35%!important;
+}
+
+form {
+    background: #2FCC92;
+    border: 2px solid #228e6c;
+    border-radius: 10px;
+    padding: 20px 10px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#name {
+    float: left;
+    margin-right: 5%;
+}
+ul {
+    padding-left: 0;
+}
+li {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
